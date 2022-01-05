@@ -1,2 +1,2 @@
 # elasticcode
-Elastic network-resident python code
+Elastic network-resident,reliable and fault-tolerant python code
